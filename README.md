@@ -12,6 +12,7 @@ My name is Luis, aka Barnabé, I am 20 years old, and I love Fishing🎣 and Tra
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipebarnabe&theme=dark&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&langs_count=6" alt="Top Langs" />
         </a>
         <br>
+        <br>
         <a href="https://github.com/luisfelipebarnabe">
-            <img src="https://github-readme-stats.vercel.app/api?username=luisfelipebarnabe&show_icons=true&theme=transparent" alt="luisfelipebarnabe GitHub stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=luisfelipebarnabe&show_icons=true&theme=transparent" alt="luisfelipebarnabe GitHub stats"/>
         </a>
