@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
+My name is Luis, aka Barnabé, I am 20 years old, and I love Fishing🎣 and Travel🚙
 
-<!--
-**LuisFelipeBarnabe/LuisFelipeBarnabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on HavanLabs
+- 🌱 I’m currently learning more about C# and ASP.NET Core Web API
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🟦 My Skills
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,postgres,git,github,vscode)](https://skillicons.dev)<br>
+## 🟪 Currently Studying
+  [![My Skills](https://skillicons.dev/icons?i=java,idea,cs,dotnet,visualstudio)](https://skillicons.dev)<br>    
+        <a href="https://github.com/leotachini">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipebarnabe&theme=dark&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&langs_count=6" alt="Top Langs" />
+        </a>
+        <br>
+        <a href="https://github.com/luisfelipebarnabe">
+            <img src="https://github-readme-stats.vercel.app/api?username=luisfelipebarnabe&show_icons=true&theme=transparent" alt="luisfelipebarnabe GitHub stats" />
+        </a>
