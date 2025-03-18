@@ -1,8 +1,12 @@
-### Hi there 👋
-My name is Luis, aka Barnabé, I am 20 years old, and I love Fishing🎣 and Travel🚙
+# 👋 Hey there! I'm Luis (aka Barnabé)  
 
-- 🔭 I’m currently working on HavanLabs
-- 🌱 I’m currently learning more about C# and ASP.NET Core Web API
+💡 Passionate developer, always exploring new technologies and innovations!  
+
+## 🚀 About Me  
+- 🎣 I love **fishing** and traveling 🚙  
+- 🔭 Currently working at **HavanLabs**  
+- 🌱 Learning more about **C# and ASP.NET Core Web API**  
+- 💬 Always open to discussing tech and sharing knowledge  
 
 ## 🟦 My Skills
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,mysql,postgres,git,github,vscode)](https://skillicons.dev)<br>
