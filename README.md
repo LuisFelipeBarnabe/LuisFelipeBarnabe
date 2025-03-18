@@ -4,7 +4,7 @@
 
 ## 🚀 About Me  
 - 🎣 I love **fishing** and traveling 🚙  
-- 🔭 Currently working at **HavanLabs**  
+- 🔭 Currently working at **HavanLabs**, using **GeneXus 18**   
 - 🌱 Learning more about **C# and ASP.NET Core Web API**  
 - 💬 Always open to discussing tech and sharing knowledge  
 
